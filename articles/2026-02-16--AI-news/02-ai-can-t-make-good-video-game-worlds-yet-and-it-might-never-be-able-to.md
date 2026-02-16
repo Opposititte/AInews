@@ -3,7 +3,7 @@ title: "AI can’t make good video game worlds yet, and it might never be able t
 source: "The Verge"
 published: "2026-02-15T10:27:52-05:00"
 url: "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie"
-saved_at: "2026-02-16 15:01 +0900"
+saved_at: "2026-02-16 15:20 +0900"
 cssclasses: [ai-news-note]
 tags: [ai-news, ai-news/the-verge]
 ---

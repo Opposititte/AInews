@@ -3,7 +3,7 @@ title: "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe"
 source: "Wired"
 published: "Sun, 15 Feb 2026 11:30:00 +0000"
 url: "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/"
-saved_at: "2026-02-16 15:01 +0900"
+saved_at: "2026-02-16 15:20 +0900"
 cssclasses: [ai-news-note]
 tags: [ai-news, ai-news/wired]
 ---

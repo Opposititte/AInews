@@ -3,7 +3,7 @@ title: "OpenClaw founder Peter Steinberger is joining OpenAI"
 source: "The Verge"
 published: "2026-02-15T18:03:55-05:00"
 url: "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai"
-saved_at: "2026-02-16 15:01 +0900"
+saved_at: "2026-02-16 15:20 +0900"
 cssclasses: [ai-news-note]
 tags: [ai-news, ai-news/the-verge]
 ---

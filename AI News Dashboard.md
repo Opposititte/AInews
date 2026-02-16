@@ -6,7 +6,7 @@ tags: [ai-news, ai-news/dashboard]
 
 # AI News Dashboard
 
-Last sync: 2026-02-16 15:01 +0900
+Last sync: 2026-02-16 15:20 +0900
 
 ## News
 
