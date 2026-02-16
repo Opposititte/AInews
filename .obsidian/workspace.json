@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "27020b8a5e6ed262",
+    "type": "split",
+    "children": [
+      {
+        "id": "76af65bff5416582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "797212414e098c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI news/news/2026-02-16--AI-news.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-16--AI-news"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcea8deefe781a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6bac101716af348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "620d2fc08b775f03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "f4f8a7ef2decd0fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "6346faf1b0cfbef2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd47d8526fb70873",
+    "type": "split",
+    "children": [
+      {
+        "id": "01cc1c1febb82470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61981fbc5fbec653",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI news/news/2026-02-16--AI-news.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-02-16--AI-newsへのバックリンク"
+            }
+          },
+          {
+            "id": "b45120933776b4f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI news/news/2026-02-16--AI-news.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-02-16--AI-newsからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "0bfdc90f8ba09ed3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "a7918837699d48af",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "3ebf900a4f6a7d83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI news/news/2026-02-16--AI-news.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-02-16--AI-newsのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "620d2fc08b775f03",
+  "lastOpenFiles": [
+    "AI News Dashboard.md",
+    "news/2026-02-16--AI-news.md",
+    "articles/2026-02-16--AI-news/20-nhs-deal-with-ai-firm-palantir-called-into-question-after-officials-co.md",
+    "articles/2026-02-16--AI-news/19-a-flaw-in-using-pretrained-protein-language-models-in-protein-protein.md",
+    "articles/2026-02-16--AI-news/18-ai-coding-platform-s-flaws-allow-bbc-reporter-to-be-hacked.md",
+    "articles/2026-02-16--AI-news/16-anthropic-raises-30bn-in-latest-round-valuing-claude-bot-maker-at-380b.md",
+    "articles/2026-02-16--AI-news/17-ai-safety-leader-says-world-is-in-peril-and-quits-to-study-poetry.md",
+    "articles/2026-02-16--AI-news/15-inside-the-new-york-city-date-night-for-ai-lovers.md",
+    "articles/2026-02-16--AI-news/14-meta-reportedly-wants-to-add-face-recognition-to-smart-glasses-while-p.md",
+    "articles/2026-02-16--AI-news/12-zillow-has-gone-wild-for-ai.md",
+    "articles/2026-02-16--AI-news/13-ring-s-adorable-surveillance-hellscape.md",
+    "articles/2026-02-16--AI-news/11-ai-is-indeed-coming-but-there-is-also-evidence-to-allay-investor-fears.md",
+    "articles/2026-02-16--AI-news/10-what-s-behind-the-mass-exodus-at-xai.md",
+    "articles/2026-02-16--AI-news/09-openai-is-nuking-its-4o-model-china-s-chatgpt-fans-aren-t-ok.md",
+    "articles/2026-02-16--AI-news/07-comparing-decentralized-machine-learning-and-ai-clinical-models-to-loc.md",
+    "articles/2026-02-16--AI-news/08-multi-to-uni-modal-knowledge-transfer-pre-training-for-molecular-repre.md",
+    "articles/2026-02-16--AI-news/06-my-uncanny-ai-valentines.md",
+    "articles/2026-02-16--AI-news/04-no-swiping-involved-the-ai-dating-apps-promising-to-find-your-soulmate.md",
+    "articles/2026-02-16--AI-news/05-us-military-used-anthropic-s-ai-model-claude-in-venezuela-raid-report.md",
+    "articles/2026-02-16--AI-news/03-google-s-ai-overviews-can-scam-you-here-s-how-to-stay-safe.md",
+    "articles/2026-02-16--AI-news/02-ai-can-t-make-good-video-game-worlds-yet-and-it-might-never-be-able-to.md",
+    "articles/2026-02-16--AI-news/01-openclaw-founder-peter-steinberger-is-joining-openai.md",
+    "articles/2026-02-16--AI-news",
+    "articles",
+    "news",
+    "AI news/articles/2026-02-16--AI-news/12-zillow-has-gone-wild-for-ai.md",
+    "AI news/articles/2026-02-16--AI-news/07-comparing-decentralized-machine-learning-and-ai-clinical-models-to-loc.md",
+    "AI news/news/2026-02-16--AI-news.md"
+  ]
+}
